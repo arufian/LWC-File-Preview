@@ -2,6 +2,10 @@
 
 A simple file preview using Lightning Web Component (LWC) with download capability. This LWC component currently only targeted **Experience Cloud Community sites**.
 
+## Why I need this?
+
+As you might know LWC standard file preview using [NavigationMixin](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/use_open_files) is not covers _Lightning Components for Visualforce, Lightning Out, or Experience Cloud sites_. This sample is a workaround to preview Salesforce files on Experience Cloud.
+
 ![Screenshot](imgs/out.gif)
 
 ## How to use 
