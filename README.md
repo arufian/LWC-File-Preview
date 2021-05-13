@@ -1,6 +1,6 @@
-# LWC File Preview
+# LWC File Preview for Experience Cloud Community sites
 
-A simple file preview using Lightning Web Component (LWC) with download capability.
+A simple file preview using Lightning Web Component (LWC) with download capability. This LWC component currently only targeted **Experience Cloud Community sites**.
 
 ![Screenshot](imgs/out.gif)
 
