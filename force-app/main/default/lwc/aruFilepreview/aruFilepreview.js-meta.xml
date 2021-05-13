@@ -2,7 +2,7 @@
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>51.0</apiVersion>
     <isExposed>true</isExposed>
-    <masterLabel>ファイルプレビュー（アルフィアン）</masterLabel>
+    <masterLabel>LWC File Preview</masterLabel>
 	<targets>
 		<target>lightningCommunity__Page</target>
 		<target>lightningCommunity__Default</target>

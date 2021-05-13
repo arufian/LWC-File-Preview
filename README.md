@@ -8,6 +8,8 @@ A simple file preview using Lightning Web Component (LWC) with download capabili
 
 - Clone this repo
 - Deploy the codes to your Salesforce org
+- Go to experience builder of your community site
+- Drag n drop "LWC File Preview" from component menu 
 
 ## SFDX Docs
 
